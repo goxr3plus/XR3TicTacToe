@@ -1,6 +1,16 @@
 # XR3TicTacToe
 Wonderful Java Tic Tac Toe game for Desktop using SWING Library.
 
+[![Latest Version](https://img.shields.io/github/release/goxr3plus/XR3TicTacToe.svg?style=flat-square)](https://github.com/goxr3plus/Java-Google-Desktop-Translator/releases)
+[![GitHub contributors][contributors-image]][contributors-url]
+[![HitCount](http://hits.dwyl.io/goxr3plus/XR3TicTacToe.svg)](http://hits.dwyl.io/goxr3plus/xr3player)
+
+Github
+[![Total Downloads](https://img.shields.io/github/downloads/goxr3plus/XR3TicTacToe/total.svg)](https://github.com/goxr3plus/XR3TicTacToe/releases)
+
+[contributors-url]: https://github.com/goxr3plus/XR3TicTacToe/graphs/contributors
+[contributors-image]: https://img.shields.io/github/contributors/goxr3plus/XR3TicTacToe.svg
+
 ## Download
 
 Download it from SourceForge : https://sourceforge.net/projects/xr3tictactoe
